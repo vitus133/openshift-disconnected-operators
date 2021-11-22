@@ -1,4 +1,4 @@
-kubevirt-hyperconverged
 local-storage-operator
-cluster-logging
-codeready-workspaces
+performance-addon-operator
+ptp-operator
+sriov-network-operator
